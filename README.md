@@ -1,10 +1,10 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm David Loveland! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
+<p><em>Technical Lead at <a href="#"> Neown
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/david?label=Follow)](https://twitter.com/intent/follow?screen_name=david)
+[![Twitter Follow](https://img.shields.io/twitter/follow/david-loveland?label=Follow)](https://twitter.com/intent/follow?screen_name=david-loveland)
 [![Linkedin: David](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/David-Loveland/)](https://www.linkedin.com/in/DavidLoveland/)
 ![GitHub followers](https://img.shields.io/github/followers/circle-earth?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://circle-earth.github.io/portfolio/)](https://circle-earth.github.io/portfolio)
