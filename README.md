@@ -20,4 +20,69 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ### 📈 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.64%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 80 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 21 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                14 commits          █████████████████████░░░░   82.35 % 
+🌙 Night                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   6 commits           █████████░░░░░░░░░░░░░░░░   35.29 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                8 commits           ████████████░░░░░░░░░░░░░   47.06 % 
+Thursday                 3 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+```
+
+
+
+
+ Last Updated on 19/01/2026 15:02:03 UTC
 <!--END_SECTION:waka-->
