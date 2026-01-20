@@ -20,17 +20,15 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ### 📈 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.64%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 80 Bytes Used in GitHub's Storage 
+> 📦 82 Bytes Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2026
+> 🏆 22 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,13 +63,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 24 mins        ███████████████████░░░░░░   75.44 % 
+YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+HTML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Acode                    1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Android                  1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -84,5 +85,5 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 19/01/2026 15:02:03 UTC
+ Last Updated on 20/01/2026 04:12:01 UTC
 <!--END_SECTION:waka-->
