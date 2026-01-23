@@ -20,7 +20,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ### 📈 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,7 +28,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 **🐱 My GitHub Data** 
 
-> 📦 432 Bytes Used in GitHub's Storage 
+> 📦 433 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,17 +63,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 4 hrs 5 mins        ███████████████░░░░░░░░░░   60.06 % 
-Image (svg)              2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.23 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Markdown                 5 hrs 7 mins        ████████████████░░░░░░░░░   65.28 % 
+Image (svg)              2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Acode                    6 hrs 47 mins       █████████████████████████   100.00 % 
+Acode                    7 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Android                  6 hrs 47 mins       █████████████████████████   100.00 % 
+Android                  7 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +87,5 @@ HTML                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 22/01/2026 04:16:23 UTC
+ Last Updated on 23/01/2026 03:59:11 UTC
 <!--END_SECTION:waka-->
