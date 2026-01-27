@@ -13,8 +13,7 @@
       .mark { fill: #ffffff; }
     }
   </style>
-
-<!-- Background -->
+  
 <circle cx="512" cy="512" r="520" class="bg"/>
 
 <path
