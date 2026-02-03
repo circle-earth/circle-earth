@@ -36,8 +36,8 @@
   <a href="https://linkedin.com/in/minarulns" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/linkedin.svg" width="50" />
   </a>
-  <a href="https://minarul.vercel.app" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/Logo.svg" width="50" />
+  <a href="https://www.tiktok.com/@minarulns" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/tiktok.svg" width="50" />
   </a>
 </p
   
@@ -101,7 +101,7 @@
 <p align="center">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <td align="right">
-      <img src="https://github-readme-stats-mj.vercel.app/api?username=DataBoySu&theme=tokyonight&show=reviews&hide_border=false&border_radius=2"
+      <img src="https://github-readme-stats-mj.vercel.app/api?username=circle-earth&theme=tokyonight&show=reviews&hide_border=false&border_radius=2"
       alt="GitHub stats" width="100%"/>
     </td>
   <td align="left" width="47%">      
