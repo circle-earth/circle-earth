@@ -110,9 +110,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-mj.vercel.app/api?username=circle-earth&show_icons=true&theme=tokyonight" />
-</p>
-
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <td align="right">
+      <img src="https://github-readme-stats-mj.vercel.app/api?username=circle-earth&theme=tokyonight&show=reviews&hide_border=false&border_radius=2"
+      alt="GitHub stats" width="100%"/>
+    </td>
+  <td align="left" width="47%">      
+  <img src="https://github-readme-stats-mj.vercel.app/api/top-langs/?username=circle-earth&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%"/></td>
+  </table></p>
+  
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.16%20thousand%20lines%20of%20code-blue?style=flat)
 
