@@ -111,7 +111,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-mj.vercel.app/api?username=circle-earth&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-mj.vercel.app/api/top-langs/?username=circle-earth&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%"/>
+  <img src="https://github-readme-stats-mj.vercel.app/api/top-langs/?username=circle-earth&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="50%"/>
 </p>
   
 <!--START_SECTION:waka-->
