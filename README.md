@@ -39,11 +39,11 @@
   <a href="https://www.tiktok.com/@minarulns" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/tiktok.svg" width="50" />
   </a>
-</p
+</p>
   
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/backend.gif" width="30"> Language 
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/backend.gif" width="30"> Tech Stack 
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
