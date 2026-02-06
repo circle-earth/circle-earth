@@ -1,6 +1,7 @@
 <h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm David Loveland! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<h3 align="center">Student Developer | DevOps | Cloud Computing | Automation</h3>
+
 <img align='right' src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/coding.gif" width="280">
+<h3 align="center">Student Developer | DevOps | Cloud Computing | Automation</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=circle-earth&label=Profile%20views&color=0e75b6&style=flat" alt="circle-earth" />
   <img src="https://img.shields.io/github/followers/circle-earth?label=Followers&style=flat" />
