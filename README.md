@@ -1,6 +1,6 @@
 <h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm David Loveland! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">Student Developer | DevOps | Cloud Computing | Automation</h3>
-<img align='right' src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/coding.gif" width="280">
+<img align='right' src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/coding.gif" alt="Coding" width="280">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=circle-earth&label=Profile%20views&color=0e75b6&style=flat" alt="circle-earth" />
   <img src="https://img.shields.io/github/followers/circle-earth?label=Followers&style=flat" />
@@ -13,14 +13,14 @@
   </a>
 </p>
     
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/about.gif" width="30"> About Me
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/about.gif" alt="About" width="30"> About Me
 
 - 🎓 Student developer exploring **DevOps, Cloud Computing & Automation**
 - 🌱 Currently learning **Python, TypeScript & Cloud-native tools**
 - ⚡ Love building, breaking & automating things
 ---
 <p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="people" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say 
 <b>hi, I'll be happy to meet you more!</b>😊</em>
 
@@ -28,22 +28,22 @@
 
 <p align="center">
   <a href="https://www.facebook.com/ShadowLog" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/facebook.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/facebook.svg" alt="Facebook" width="40" />
   </a>
   <a href="https://www.instagram.com/minarulns" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/instagram.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/instagram.svg" alt="Instagram" width="40" />
   </a>
   <a href="https://linkedin.com/in/minarulns" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/linkedin.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/linkedin.svg" alt="LinkedIn" width="50" />
   </a>
   <a href="https://www.tiktok.com/@minarulns" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/tiktok.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/tiktok.svg" alt="Tiktok" width="50" />
   </a>
 </p>
   
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/backend.gif" width="30"> Tech Stack 
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/backend.gif" alt="Tech stack" width="30"> Tech Stack 
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -66,7 +66,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/cloud.gif" width="30"> Cloud & DevOps
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/cloud.gif" alt="cloud" width="30"> Cloud & DevOps
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -77,7 +77,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/database.gif" width="30"> Database
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/database.gif" alt="database" width="30"> Database
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -88,7 +88,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/tools.gif" width="30"> Tools & Platforms
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/tools.gif" alt="tools" width="30"> Tools & Platforms
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
