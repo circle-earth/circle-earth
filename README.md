@@ -3,14 +3,13 @@
 <img align='right' src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/coding.gif" alt="Coding" width="280">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=circle-earth&label=Profile%20views&color=0e75b6&style=flat" alt="circle-earth" />
-  <img src="https://img.shields.io/github/followers/circle-earth?label=Followers&style=flat" />
+  <a href="https://github.com/circle-earth">
+  <img src="https://img.shields.io/github/followers/circle-earth?label=Followers&style=flat" alt="Followers" /></a>
   <img src="https://github.com/circle-earth/circle-earth/workflows/Waka%20Readme/badge.svg" alt="waka readme status" />
   <a href="https://wakatime.com/@d3d6940b-0a46-4013-b03a-7653b214f960">
-  <img src="https://wakatime.com/badge/user/d3d6940b-0a46-4013-b03a-7653b214f960.svg" alt="Total time code" />
-  </a>
+  <img src="https://wakatime.com/badge/user/d3d6940b-0a46-4013-b03a-7653b214f960.svg" alt="Total time code" /></a>
   <a href="https://minarul.vercel.app">
-  <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="website" />
-  </a>
+  <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="website" /></a>
 </p>
     
 ## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/about.gif" alt="About" width="30"> About Me
@@ -24,26 +23,22 @@
 <em><b>I love connecting with different people</b> so if you want to say 
 <b>hi, I'll be happy to meet you more!</b>😊</em>
 
-### Connect with me:
+🔗 &nbsp;**Connect with me**
 
 <p align="center">
-  <a href="https://www.facebook.com/ShadowLog" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/facebook.svg" alt="Facebook" width="40" />
-  </a>
-  <a href="https://www.instagram.com/minarulns" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/instagram.svg" alt="Instagram" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/minarulns" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/linkedin.svg" alt="LinkedIn" width="50" />
-  </a>
-  <a href="https://www.tiktok.com/@minarulns" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/tiktok.svg" alt="Tiktok" width="50" />
-  </a>
+  <a href="https://www.facebook.com/ShadowLog" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/facebook.svg" alt="Facebook" width="40" /></a>
+  <a href="https://www.instagram.com/minarulns" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/instagram.svg" alt="Instagram" width="40" /></a>
+  <a href="https://linkedin.com/in/minarulns" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/linkedin.svg" alt="LinkedIn" width="50" /></a>
+  <a href="https://www.tiktok.com/@minarulns" target="blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/tiktok.svg" alt="Tiktok" width="40" /></a>
 </p>
   
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/backend.gif" alt="Tech stack" width="30"> Tech Stack 
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/backend.gif" alt="Tech stack" width="30"> Language & Framework
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
