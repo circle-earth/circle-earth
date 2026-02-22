@@ -1,4 +1,4 @@
-<h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm David Loveland! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Minarul Islam <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">Student Developer | DevOps | Cloud Computing | Automation</h3>
 <img align='right' src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/coding.gif" alt="Coding" width="280">
 <p align="center">
