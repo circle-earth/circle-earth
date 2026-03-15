@@ -9,6 +9,8 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Dhaka
     steps:
       - uses: circle-earth/waka-readme-stats@master
         with:
