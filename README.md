@@ -1,26 +1,27 @@
 <h2 align='center'><img src="https://icon-mj.vercel.app/icon/animated/blob-sunglass" width="30"/>  I'm Minarul Islam <img src="https://icon-mj.vercel.app/icon/animated/giphy" width="50"></h2>
 
+
 <div align="left">
   <table>
     <tr>
       <td align="center">
           <a href="https://m.facebook.com/ShadowLog">
-          <img src="https://icon-mj.vercel.app/icon/brands/facebook?size=20" alt="Facebook" valign="middle"/>&nbsp;Facebook</td>
+          <img src="https://icon-mj.vercel.app/badge?icon=facebook&text=Facebook" alt="Facebook" valign="middle"/></td>
       <td align="center">
           <a href="https://www.instagram.com/mimarulns">
-          <img src="https://icon-mj.vercel.app/icon/brands/instagram?size=20" alt="Instagram" valign="middle"/>&nbsp;Instagram</td>
+          <img src="https://icon-mj.vercel.app/badge?icon=instagram&text=Instagram" alt="Instagram" valign="middle"/></td>
             <td align="center">
           <a href="https://github.com/circle-earth">
-          <img src="https://icon-mj.vercel.app/icon/brands/github?size=20" alt="Github" valign="middle"/>&nbsp;Github</td>        
+          <img src="https://icon-mj.vercel.app/badge?icon=github-pure&text=GitHub" alt="Github" valign="middle"/></td>        
       <td align="center">
           <a href="https://bd.linkedin.com/minarulns">
-          <img src="https://icon-mj.vercel.app/icon/brands/linkedin?size=20" alt="LinkedIn" valign="middle"/>&nbsp;Linkedin</td>
+          <img src="https://icon-mj.vercel.app/badge?icon=linkedin-pure&text=LinkedIn" alt="LinkedIn" valign="middle"/></td>
             <td align="center">
           <a href="https://x.com/minarulns">
-          <img src="https://icon-mj.vercel.app/icon/brands/x?size=20" alt="X" valign="middle"/>&nbsp;X</td>
+          <img src="https://icon-mj.vercel.app/badge?icon=x&text=Follow" alt="X" valign="middle"/></td>
             <td align="center">
           <a href="https://www.tiktok.com/@minarulns">
-          <img src="https://icon-mj.vercel.app/icon/brands/tiktok?size=20" alt="TikTok" valign="middle"/>&nbsp;TikTok</td>
+          <img src="https://icon-mj.vercel.app/badge?icon=tiktok-pure&text=TikTok" alt="TikTok" valign="middle"/></td>
     </tr>
   </table>
 </div>
