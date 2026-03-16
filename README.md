@@ -1,33 +1,46 @@
 <h2 align='center'><img src="https://icon-mj.vercel.app/icon/animated/blob-sunglass" width="30"/>  I'm Minarul Islam <img src="https://icon-mj.vercel.app/icon/animated/giphy" width="50"></h2>
 
-
-<div align="left">
+<div align="center">
   <table>
+    </tr>
     <tr>
       <td align="center">
-          <a href="https://m.facebook.com/ShadowLog">
-          <img src="https://icon-mj.vercel.app/badge?icon=facebook&text=Facebook" alt="Facebook" valign="middle"/></td>
+        <a href="https://facebook.com/ShadowLog" target="_blank">
+          <img src="https://icon-mj.vercel.app/badge?icon=facebook&text=Facebook" alt="Facebook" />
+        </a>
+      </td>
       <td align="center">
-          <a href="https://www.instagram.com/mimarulns">
-          <img src="https://icon-mj.vercel.app/badge?icon=instagram&text=Instagram" alt="Instagram" valign="middle"/></td>
-            <td align="center">
-          <a href="https://github.com/circle-earth">
-          <img src="https://icon-mj.vercel.app/badge?icon=github-pure&text=GitHub" alt="Github" valign="middle"/></td>        
+        <a href="https://www.linkedin.com/in/minarulns" target="_blank">
+          <img src="https://icon-mj.vercel.app/badge?icon=linkedin-pure&text=LinkedIn" alt="LinkedIn" />
+        </a>
+      </td>
       <td align="center">
-          <a href="https://bd.linkedin.com/minarulns">
-          <img src="https://icon-mj.vercel.app/badge?icon=linkedin-pure&text=LinkedIn" alt="LinkedIn" valign="middle"/></td>
-            <td align="center">
-          <a href="https://x.com/minarulns">
-          <img src="https://icon-mj.vercel.app/badge?icon=x&text=Follow" alt="X" valign="middle"/></td>
-            <td align="center">
-          <a href="https://www.tiktok.com/@minarulns">
-          <img src="https://icon-mj.vercel.app/badge?icon=tiktok-pure&text=TikTok" alt="TikTok" valign="middle"/></td>
+        <a href="https://github.com/circle-earth" target="_blank">
+          <img src="https://icon-mj.vercel.app/badge?icon=github&text=GitHub" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://twitter.com/minarulns" target="_blank">
+          <img src="https://icon-mj.vercel.app/badge?icon=twitter&text=Twitter" alt="Twitter" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://instagram.com/minarulns" target="_blank">
+          <img src="https://icon-mj.vercel.app/badge?icon=instagram&text=Instagram" alt="Instagram" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://youtube.com/minarulns" target="_blank">
+          <img src="https://icon-mj.vercel.app/badge?icon=youtube&text=YouTube" alt="YouTube" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
 
 
-  
 ---
 
 <h3 align="center">DevOps Enthusiast | Cloud Learner | Backend Explorer</h3>
