@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://twitter.com/minarulns" target="_blank">
+        <a href="https://x.com/minarulns" target="_blank">
           <img src="https://icon-mj.vercel.app/badge?icon=x-pure&text=Twitter" alt="Twitter" />
         </a>
       </td>
@@ -32,14 +32,13 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://youtube.com/minarulns" target="_blank">
+        <a href="https://youtube.com/@minarulns" target="_blank">
           <img src="https://icon-mj.vercel.app/badge?icon=youtube&text=YouTube" alt="YouTube" />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
 
 ---
 
