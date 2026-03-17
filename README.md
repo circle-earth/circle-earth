@@ -6,7 +6,7 @@
     <tr>
       <td align="center">
         <a href="https://facebook.com/ShadowLog" target="_blank">
-          <img src="https://icon-mj.vercel.app/badge?icon=facebook&text=Facebook" alt="Facebook" />
+          <img src="https://icon-mj.vercel.app/badge?icon=facebook-pure&text=Facebook" alt="Facebook" />
         </a>
       </td>
       <td align="center">
@@ -23,7 +23,7 @@
     <tr>
       <td align="center">
         <a href="https://twitter.com/minarulns" target="_blank">
-          <img src="https://icon-mj.vercel.app/badge?icon=twitter&text=Twitter" alt="Twitter" />
+          <img src="https://icon-mj.vercel.app/badge?icon=x-pure&text=Twitter" alt="Twitter" />
         </a>
       </td>
       <td align="center">
