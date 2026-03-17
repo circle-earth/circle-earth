@@ -90,7 +90,7 @@
     </tr>
     <tr>
       <td align="center"><img src="https://icon-mj.vercel.app/icon/language/html5?size=20" alt="HTML" valign="middle"/>&nbsp;HTML</td>
-      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/css?size=20" alt="CSS" valign="middle"/>&nbsp;CSS</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/css3?size=20" alt="CSS" valign="middle"/>&nbsp;CSS</td>
       <td align="center"><img src="https://icon-mj.vercel.app/icon/language/tailwindcss?size=20" alt="Tailwind" valign="middle"/>&nbsp;Tailwind</td>
       <td align="center"><img src="https://icon-mj.vercel.app/icon/language/react?size=20" alt="React" valign="middle"/>&nbsp;React</td>
       <td align="center"><img src="https://icon-mj.vercel.app/icon/language/nextjs?size=20" alt="Next.js" valign="middle"/>&nbsp;Next.js</td>
