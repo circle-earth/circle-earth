@@ -50,7 +50,7 @@
   <table>
     <tr>
       <td width="300" align="center">
-        <img src="https://komarev.com/ghpvc/?username=circle-earth&label=Profile%20views&color=0e75b6&style=flat" alt="circle-earth" />
+        <img src="https://komarev.com/ghpvc/?username=circle-earth&abbreviated=true" alt="circle-earth" />
         <a href="https://github.com/circle-earth">
         <img src="https://img.shields.io/github/followers/circle-earth?label=Followers&style=flat" alt="Followers" /></a>
         <img src="https://github.com/circle-earth/circle-earth/workflows/Waka%20Readme/badge.svg" alt="waka readme status" />
