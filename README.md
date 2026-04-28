@@ -65,11 +65,9 @@
 
 <img src="https://icon-mj.vercel.app/icon/animated/about" alt="About" width="30"> About Me
 
-- 🔭 I’m currently working on **DevOps, Cloud Infrastructure, and Automation**
-- 🌱 I’m currently learning **Kubernetes, Terraform, AWS, and CI/CD**
-- 💡 I enjoy solving **deployment, scalability, and infrastructure problems**
-- 🐧 I love working with **Linux, Docker, GitHub Actions, and backend tools**
-- 🤝 I’m open to **collaboration, internships, and learning opportunities**
+- I’m a **Full Stack Developer** dedicated to building scalable and efficient web applications.  
+- With a strong foundation in modern frameworks and backend systems, I continuously explore **DevOps** and **cloud technologies**.  
+- I enjoy transforming ideas into reliable digital products that deliver real value.
 
 ---
 
