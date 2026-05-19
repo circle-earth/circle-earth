@@ -15,7 +15,7 @@ jobs:
       contents: read
     steps:
       - name: Checkout private stats updater
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6.0.2
         with:
           repository: circle-earth/waka-readme-stats
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
@@ -23,7 +23,7 @@ jobs:
           ref: master
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6.2.0
         with:
           python-version: "3.13"
           cache: pip
