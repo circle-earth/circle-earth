@@ -4,34 +4,34 @@
   <table>
     </tr>
     <tr>
-      <td align="center">
+      <td width="400" align="center">
         <a href="https://facebook.com/ShadowLog" target="_blank">
           <img src="https://icon-mj.vercel.app/badge?icon=facebook-pure&text=Facebook" alt="Facebook" />
         </a>
       </td>
-      <td align="center">
+      <td width="400" align="center">
         <a href="https://www.linkedin.com/in/minarulns" target="_blank">
           <img src="https://icon-mj.vercel.app/badge?icon=linkedin-pure&text=LinkedIn" alt="LinkedIn" />
         </a>
       </td>
-      <td align="center">
+      <td width="400" align="center">
         <a href="https://github.com/circle-earth" target="_blank">
           <img src="https://icon-mj.vercel.app/badge?icon=github&text=GitHub" alt="GitHub" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="400" align="center">
         <a href="https://x.com/minarulns" target="_blank">
           <img src="https://icon-mj.vercel.app/badge?icon=x-pure&text=Twitter" alt="Twitter" />
         </a>
       </td>
-      <td align="center">
+      <td width="400" align="center">
         <a href="https://instagram.com/minarulns" target="_blank">
           <img src="https://icon-mj.vercel.app/badge?icon=instagram&text=Instagram" alt="Instagram" />
         </a>
       </td>
-      <td align="center">
+      <td width="400" align="center">
         <a href="https://youtube.com/@minarulns" target="_blank">
           <img src="https://icon-mj.vercel.app/badge?icon=youtube&text=YouTube" alt="YouTube" />
         </a>
