@@ -37,10 +37,4 @@ jobs:
         env:
           INPUT_WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          INPUT_SHOW_OS: "True"
-          INPUT_SHOW_PROJECTS: "False"
-          INPUT_SHOW_LINES_OF_CODE: "True"
-          INPUT_SHOW_TOTAL_CODE_TIME: "False"
-          INPUT_SHOW_PROFILE_VIEWS: "False"
-          INPUT_SHOW_LOC_CHART: "False"
           INPUT_LOCALE: "en"
