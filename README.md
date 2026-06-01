@@ -3,59 +3,72 @@
 <img align="right" src="https://icon-mj.vercel.app/icon/animated/loading" alt="Coding" width="280">
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="300" align="center">
-        <img src="https://komarev.com/ghpvc/?username=circle-earth&abbreviated=true" alt="circle-earth" />
-        <a href="https://github.com/circle-earth">
-          <img src="https://img.shields.io/github/followers/circle-earth?label=Followers&style=flat" alt="Followers" />
-        </a>
-        <img src="https://github.com/circle-earth/circle-earth/workflows/Waka%20Readme/badge.svg" alt="waka readme status" />
-        <a href="https://wakatime.com/@d3d6940b-0a46-4013-b03a-7653b214f960">
-          <img src="https://wakatime.com/badge/user/d3d6940b-0a46-4013-b03a-7653b214f960.svg" alt="Total time code" />
-        </a>
-        <a href="https://minarul.vercel.app">
-          <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="website" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+<td align="center" width="300">
+
+<img src="https://komarev.com/ghpvc/?username=circle-earth&abbreviated=true" alt="circle-earth" />
+
+<a href="https://github.com/circle-earth">
+<img src="https://img.shields.io/github/followers/circle-earth?label=Followers&style=flat" alt="Followers" />
+</a>
+
+<img src="https://github.com/circle-earth/circle-earth/workflows/Waka%20Readme/badge.svg" alt="waka readme status" />
+
+<a href="https://wakatime.com/@d3d6940b-0a46-4013-b03a-7653b214f960">
+<img src="https://wakatime.com/badge/user/d3d6940b-0a46-4013-b03a-7653b214f960.svg" alt="Total time code" />
+</a>
+
+<a href="https://minarul.vercel.app">
+<img src="https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website" />
+</a>
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://facebook.com/ShadowLog">
-        <img src="https://icon-mj.vercel.app/icon/social/facebook?size=20">
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/minarulns">
-        <img src="https://icon-mj.vercel.app/icon/social/linkedin?size=20">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/circle-earth">
-        <img src="https://icon-mj.vercel.app/icon/social/github?size=20">
-      </a>
-    </td>    
-    <td>
-      <a href="https://x.com/minarulns">
-        <img src="https://icon-mj.vercel.app/icon/social/x?size=20">
-      </a>
-    </td>
-    <td>
-      <a href="https://instagram.com/minarulns">
-        <img src="https://icon-mj.vercel.app/icon/social/instagram?size=20">
-      </a>
-    </td>    
-    <td>
-      <a href="https://youtube.com/@minarulns">
-        <img src="https://icon-mj.vercel.app/icon/social/youtube?size=20">
-      </a>
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center">
+<a href="https://facebook.com/ShadowLog">
+<img src="https://icon-mj.vercel.app/icon/social/facebook?size=20" valign="middle" /></a>
+</td>
+  
+<td align="center">
+<a href="https://linkedin.com/in/minarulns">
+<img src="https://icon-mj.vercel.app/icon/social/linkedin?size=20" valign="middle" /></a>
+</td>
+
+<td align="center">
+<a href="https://github.com/circle-earth">
+<img src="https://icon-mj.vercel.app/icon/social/github?size=20" valign="middle" /></a>
+</td>
+
+<td align="center">
+<a href="https://x.com/minarulns">
+<img src="https://icon-mj.vercel.app/icon/social/x?size=20" valign="middle" /></a>
+</td>
+
+<td align="center">
+<a href="https://instagram.com/minarulns">
+<img src="https://icon-mj.vercel.app/icon/social/instagram?size=20" valign="middle" /></a>
+</td>
+
+<td align="center">
+<a href="https://youtube.com/@minarulns">
+<img src="https://icon-mj.vercel.app/icon/social/youtube?size=20" valign="middle" /></a>
+</td>
+
+</tr>
 </table>
+
+</div>
   
 <img src="https://icon-mj.vercel.app/icon/animated/about" alt="About" width="30"> **About Me**
 
@@ -127,21 +140,22 @@
 </tr>
 
 </table>
-
 </div>
 
-<p align="center">
-  <table width="1200" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-    <tr>
-      <td align="left">
-        <img src="https://github-readme-stats-mj.vercel.app/api?username=circle-earth&theme=prussian&show=reviews&hide_border=false&border_radius=2" alt="GitHub stats" width="100%" />
-      </td>
-      <td align="right" width="47%">
-        <img src="https://github-readme-stats-mj.vercel.app/api/top-langs/?username=circle-earth&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="600" />
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+
+<table width="1200" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats-mj.vercel.app/api?username=circle-earth&theme=prussian&show=reviews&hide_border=false&border_radius=2" alt="GitHub stats" width="100%" />
+    </td>
+    <td align="right" width="47%">
+      <img src="https://github-readme-stats-mj.vercel.app/api/top-langs/?username=circle-earth&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="600" />
+    </td>
+  </tr>
+</table>
+
+</div>
   
 <!--START_SECTION:waka-->
 <div align="center"><table><tr><th colspan="2" width="1200" align="center">🐱 My GitHub Data</th></tr><tr><td width="400" align="left" style="white-space: nowrap;">&nbsp;📦&nbsp;Used&nbsp;in&nbsp;GitHub's&nbsp;Storage</td><td width="400" align="center">47.9&nbsp;kB</td></tr><tr><td width="400" align="left" style="white-space: nowrap;">&nbsp;🏆&nbsp;Contributions&nbsp;in&nbsp;the&nbsp;Year</td><td width="400" align="center">1,054</td></tr><tr><td width="400" align="left" style="white-space: nowrap;">&nbsp;📜&nbsp;Public&nbsp;Repositories</td><td width="400" align="center">3</td></tr><tr><td width="400" align="left" style="white-space: nowrap;">&nbsp;🔑&nbsp;Private&nbsp;Repositories</td><td width="400" align="center">35</td></tr></table></div>
