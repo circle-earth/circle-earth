@@ -15,7 +15,7 @@ jobs:
       contents: read
     steps:
       - name: Checkout private stats updater
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
         with:
           repository: circle-earth/waka-readme-stats
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
