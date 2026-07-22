@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout current repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Checkout private stats updater
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: circle-earth/waka-readme-stats
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
