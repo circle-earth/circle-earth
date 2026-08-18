@@ -12,10 +12,10 @@ jobs:
     env:
       TZ: Asia/Dhaka
     permissions:
-      contents: read
+      contents: write
     steps:
       - name: Checkout private stats updater
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
         with:
           repository: circle-earth/waka-readme-stats
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
@@ -23,7 +23,7 @@ jobs:
           ref: master
 
       - name: Set up Python
-        uses: actions/setup-python@v6.3.0
+        uses: actions/setup-python@v5
         with:
           python-version: "3.13"
           cache: pip
@@ -38,3 +38,4 @@ jobs:
           INPUT_WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
           INPUT_LOCALE: "en"
+          INPUT_SHOW_AI_CODING: "True"
