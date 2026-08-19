@@ -158,6 +158,13 @@
 </div>
   
 <!--START_SECTION:waka-->
+
+<div align="center">
+
+![Code Time](http://img.shields.io/badge/Code%20Time--blue?style=flat)
+
+</div>
+
 <div align="center">
 <table>
 
@@ -173,8 +180,94 @@
 <div align="center">
 <table>
 
+<tr><th colspan="3" align="center">🌞 I'm an Early 🐤</th></tr>
+<tr><th width="400" align="center">Time Period</th><th width="400" align="center">Commits</th><th width="400" align="center">Progress</th></tr>
+
+<tr>
+<td width="400" align="center">🌞&nbsp;Morning</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center">🌆&nbsp;Daytime</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center">🌃&nbsp;Evening</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center">🌙&nbsp;Night</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+</table>
+</div>
+
+<div align="center">
+<table>
+
+<tr><th colspan="3" align="center">📅 I'm Most Productive on Monday</th></tr>
+<tr><th width="400" align="center">Day</th><th width="400" align="center">Commits</th><th width="400" align="center">Progress</th></tr>
+
+<tr>
+<td width="400" align="center">Monday</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center">Tuesday</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center">Wednesday</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center">Thursday</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center">Friday</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center">Saturday</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center">Sunday</td>
+<td width="400" align="center">0&nbsp;commits</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.00"/><img src="https://markdown-progress-vercel.vercel.app/0.00?d" alt="0.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+</table>
+</div>
+
+
+
+<div align="center">
+<table>
+
 <tr><th colspan="1" width="1200" align="center">📊 This Week I Spent My Time On</th></tr>
-<tr><th colspan="1" width="1200" align="center">🕑︎ Time Zone: Asia/Dhaka</th></tr>
+<tr><th colspan="1" width="1200" align="center">🕑︎ Time Zone: UTC</th></tr>
 
 </table>
 </div>
@@ -183,7 +276,7 @@
 <table>
 
 <tr><th colspan="3" align="center">💬 Programming Languages</th></tr>
-<tr><th width="300" align="center">Language</th><th width="250" align="center">Time Spent</th><th width="500" align="center">Progress</th></tr>
+<tr><th width="400" align="center">Language</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
 
 <tr>
 <td align="center"><img src="https://icon-mj.vercel.app/icon/file/text?size=20" valign="middle"/>&nbsp;Text</td>
@@ -210,7 +303,7 @@
 <table>
 
 <tr><th colspan="3" align="center">👨‍💻 IDE's</th></tr>
-<tr><th width="300" align="center">Editor</th><th width="250" align="center">Time Spent</th><th width="500" align="center">Progress</th></tr>
+<tr><th width="400" align="center">Editor</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
 
 <tr>
 <td align="center"><img src="https://icon-mj.vercel.app/icon/ides/webstorm?size=20" valign="middle"/>&nbsp;Webstorm</td>
@@ -249,7 +342,7 @@
 <table>
 
 <tr><th colspan="3" align="center">💻 Operating System</th></tr>
-<tr><th width="300" align="center">OS</th><th width="250" align="center">Time Spent</th><th width="500" align="center">Progress</th></tr>
+<tr><th width="400" align="center">OS</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
 
 <tr>
 <td align="center"><img src="https://icon-mj.vercel.app/icon/os/unknownos?size=20" valign="middle"/>&nbsp;Unknown&nbsp;OS</td>
@@ -292,7 +385,7 @@
 <tr><td width="300" align="center">✨&nbsp;Mostly&nbsp;Hands-On</td><td width="750" align="left">0.00%&nbsp;of&nbsp;written&nbsp;lines&nbsp;came&nbsp;from&nbsp;AI</td></tr>
 <tr><td width="300" align="center">📄&nbsp;Detailed&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;0&nbsp;characters&nbsp;per&nbsp;prompt</td></tr>
 <tr><td width="300" align="center">💬&nbsp;Iterative&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;0&nbsp;prompts&nbsp;per&nbsp;session</td></tr>
-<tr><td width="300" align="center">🖊️&nbsp;Hands-On&nbsp;Reviewer</td><td width="750" align="left">100.00%&nbsp;of&nbsp;changed&nbsp;lines&nbsp;were&nbsp;hand-edited</td></tr>
+<tr><td width="300" align="center">🖊️&nbsp;Hands-On&nbsp;Reviewer</td><td width="750" align="left">0.00%&nbsp;of&nbsp;changed&nbsp;lines&nbsp;were&nbsp;hand-edited</td></tr>
 
 </table>
 </div>
@@ -300,13 +393,13 @@
 <div align="center">
 <table>
 
-<tr><th colspan="3" align="center">📝 I Mostly Code in Go</th></tr>
-<tr><th width="300" align="center">Language</th><th width="250" align="center">Repository</th><th width="500" align="center">Progress</th></tr>
+<tr><th colspan="3" align="center">📝 I Mostly Code in Python</th></tr>
+<tr><th width="400" align="center">Language</th><th width="400" align="center">Repository</th><th width="400" align="center">Progress</th></tr>
 
 <tr>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/file/go?size=20" valign="middle"/>&nbsp;Go</td>
-<td align="center">5&nbsp;repos</td>
-<td align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/29.41"/><img src="https://markdown-progress-vercel.vercel.app/29.41?d" alt="29.41%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/python?size=20" valign="middle"/>&nbsp;Python</td>
+<td width="400" align="center">1&nbsp;repo</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/20.00"/><img src="https://markdown-progress-vercel.vercel.app/20.00?d" alt="20.00%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
@@ -316,9 +409,9 @@
 </tr>
 
 <tr>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/file/python?size=20" valign="middle"/>&nbsp;Python</td>
-<td align="center">3&nbsp;repos</td>
-<td align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/17.65"/><img src="https://markdown-progress-vercel.vercel.app/17.65?d" alt="17.65%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/go?size=20" valign="middle"/>&nbsp;Go</td>
+<td width="400" align="center">1&nbsp;repo</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/20.00"/><img src="https://markdown-progress-vercel.vercel.app/20.00?d" alt="20.00%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
@@ -337,6 +430,7 @@
 </div>
 
 <div align="center">
+<table>
 
 Last Updated on 19/08/2026 07:23:45 UTC
 &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
