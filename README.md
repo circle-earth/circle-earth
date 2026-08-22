@@ -85,55 +85,55 @@
 <table>
 
 <tr>
-<th colspan="2" width="400"><img src="https://icon-mj.vercel.app/icon/code?size=20" valign="middle" />&nbsp;Language & Framework</th>
-<th width="200"><img src="https://icon-mj.vercel.app/icon/database?size=20" valign="middle" />&nbsp;Database</th>
-<th width="200"><img src="https://icon-mj.vercel.app/icon/cloud?size=20" valign="middle" />&nbsp;Cloud & DevOps</th>
-<th width="200"><img src="https://icon-mj.vercel.app/icon/tools?size=20" valign="middle" />&nbsp; Tools</th>
+<th colspan="2" width="400"><picture><img src="https://icon-mj.vercel.app/icon/code?size=20" valign="middle" /></picture>&nbsp;Language & Framework</th>
+<th width="200"><picture><img src="https://icon-mj.vercel.app/icon/database?size=20" valign="middle" /></picture>&nbsp;Database</th>
+<th width="200"><picture><img src="https://icon-mj.vercel.app/icon/cloud?size=20" valign="middle" /></picture>&nbsp;Cloud & DevOps</th>
+<th width="200"><picture><img src="https://icon-mj.vercel.app/icon/tools?size=20" valign="middle" /></picture>&nbsp; Tools</th>
 </tr>
 
 <tr>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/html5?size=18" valign="middle" />&nbsp;HTML</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/react?size=18" valign="middle" />&nbsp;React</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/postgresql?size=18" valign="middle" />&nbsp;PostgreSQL</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/linux?size=18" valign="middle" />&nbsp;Linux</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/git?size=18" valign="middle" />&nbsp;Git</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/html5?size=18" valign="middle" /></picture>&nbsp;HTML</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/react?size=18" valign="middle" /></picture>&nbsp;React</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/postgresql?size=18" valign="middle" /></picture>&nbsp;PostgreSQL</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/linux?size=18" valign="middle" /></picture>&nbsp;Linux</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/git?size=18" valign="middle" /></picture>&nbsp;Git</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/css3?size=18" valign="middle" />&nbsp;CSS</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/nextjs?size=18" valign="middle" />&nbsp;Next.js</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/redis?size=18" valign="middle" />&nbsp;Redis</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/docker?size=18" valign="middle" />&nbsp;Docker</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/postman?size=18" valign="middle" />&nbsp;Postman</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/css3?size=18" valign="middle" /></picture>&nbsp;CSS</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/nextjs?size=18" valign="middle" /></picture>&nbsp;Next.js</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/redis?size=18" valign="middle" /></picture>&nbsp;Redis</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/docker?size=18" valign="middle" /></picture>&nbsp;Docker</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/postman?size=18" valign="middle" /></picture>&nbsp;Postman</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/javascript?size=18" valign="middle" />&nbsp;JavaScript</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/tailwindcss?size=18" valign="middle" />&nbsp;Tailwind</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/sqlite?size=18" valign="middle" />&nbsp;SQLite</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/githubactions?size=18" valign="middle" />&nbsp;Actions</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/figma?size=18" valign="middle" />&nbsp;Figma</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/javascript?size=18" valign="middle" /></picture>&nbsp;JavaScript</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/tailwindcss?size=18" valign="middle" /></picture>&nbsp;Tailwind</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/sqlite?size=18" valign="middle" /></picture>&nbsp;SQLite</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/githubactions?size=18" valign="middle" /></picture>&nbsp;Actions</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/figma?size=18" valign="middle" /></picture>&nbsp;Figma</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/typescript?size=18" valign="middle" />&nbsp;TypeScript</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/nodejs?size=18" valign="middle" />&nbsp;Node.js</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/mongodb?size=18" valign="middle" />&nbsp;MongoDB</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/cloudflare?size=18" valign="middle" />&nbsp;Cloudflare</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/npm?size=18" valign="middle" />&nbsp;npm</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/typescript?size=18" valign="middle" /></picture>&nbsp;TypeScript</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/nodejs?size=18" valign="middle" /></picture>&nbsp;Node.js</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/mongodb?size=18" valign="middle" /></picture>&nbsp;MongoDB</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/cloudflare?size=18" valign="middle" /></picture>&nbsp;Cloudflare</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/npm?size=18" valign="middle" /></picture>&nbsp;npm</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/python?size=18" valign="middle" />&nbsp;Python</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/fastify?size=18" valign="middle" />&nbsp;Fastify</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/firebase?size=18" valign="middle" />&nbsp;Firebase</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/vercel?size=18" valign="middle" />&nbsp;Vercel</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/python?size=18" valign="middle" /></picture>&nbsp;Python</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/fastify?size=18" valign="middle" /></picture>&nbsp;Fastify</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/firebase?size=18" valign="middle" /></picture>&nbsp;Firebase</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/vercel?size=18" valign="middle" /></picture>&nbsp;Vercel</td>
 <td></td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/go?size=18" valign="middle" />&nbsp;Go</td>
-<td align="center"><img src="https://icon-mj.vercel.app/icon/language/flask?size=18" valign="middle" />&nbsp;Flask</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/go?size=18" valign="middle" /></picture>&nbsp;Go</td>
+<td align="center"><picture><img src="https://icon-mj.vercel.app/icon/language/flask?size=18" valign="middle" /></picture>&nbsp;Flask</td>
 <td></td>
 <td></td>
 <td></td>
@@ -141,7 +141,6 @@
 
 </table>
 </div>
-
 <div align="center">
 
 <table width="1200" border="0" cellpadding="0" cellspacing="0" style="border:none;">
