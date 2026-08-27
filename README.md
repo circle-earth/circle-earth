@@ -161,10 +161,10 @@
 <table>
 
 <tr><th colspan="2" width="1200" align="center">🐱 My GitHub Data</th></tr>
-<tr><td width="400" align="left">&nbsp;📦&nbsp;Used&nbsp;in&nbsp;GitHub's&nbsp;Storage</td><td width="400" align="center">51.1&nbsp;kB</td></tr>
-<tr><td width="400" align="left">&nbsp;🏆&nbsp;Contributions&nbsp;in&nbsp;the&nbsp;Year</td><td width="400" align="center">547</td></tr>
+<tr><td width="400" align="left">&nbsp;📦&nbsp;Used&nbsp;in&nbsp;GitHub's&nbsp;Storage</td><td width="400" align="center">51.3&nbsp;kB</td></tr>
+<tr><td width="400" align="left">&nbsp;🏆&nbsp;Contributions&nbsp;in&nbsp;the&nbsp;Year</td><td width="400" align="center">552</td></tr>
 <tr><td width="400" align="left">&nbsp;📜&nbsp;Public&nbsp;Repositories</td><td width="400" align="center">5</td></tr>
-<tr><td width="400" align="left">&nbsp;🔑&nbsp;Private&nbsp;Repositories</td><td width="400" align="center">14</td></tr>
+<tr><td width="400" align="left">&nbsp;🔑&nbsp;Private&nbsp;Repositories</td><td width="400" align="center">15</td></tr>
 
 </table>
 </div>
@@ -174,69 +174,6 @@
 
 <tr><th colspan="1" width="1200" align="center">📊 This Week I Spent My Time On</th></tr>
 <tr><th colspan="1" width="1200" align="center">🕑︎ Time Zone: Asia/Dhaka</th></tr>
-
-</table>
-</div>
-
-<div align="center">
-<table>
-
-<tr><th colspan="3" align="center">💬 Programming Languages</th></tr>
-<tr><th width="400" align="center">Language</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/text?size=20" valign="middle"/>&nbsp;Text</td>
-<td width="400" align="center">1&nbsp;min</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/99.10"/><img src="https://markdown-progress-vercel.vercel.app/99.10?d" alt="99.10%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/python?size=20" valign="middle"/>&nbsp;Python</td>
-<td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.90"/><img src="https://markdown-progress-vercel.vercel.app/0.90?d" alt="0.90%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-</table>
-</div>
-
-<div align="center">
-<table>
-
-<tr><th colspan="3" align="center">👨‍💻 IDE's</th></tr>
-<tr><th width="400" align="center">Editor</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/ides/textastic?size=20" valign="middle"/>&nbsp;Textastic</td>
-<td width="400" align="center">1&nbsp;min</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/99.10"/><img src="https://markdown-progress-vercel.vercel.app/99.10?d" alt="99.10%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/ides/vscode?size=20" valign="middle"/>&nbsp;VS&nbsp;Code</td>
-<td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.90"/><img src="https://markdown-progress-vercel.vercel.app/0.90?d" alt="0.90%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-</table>
-</div>
-
-<div align="center">
-<table>
-
-<tr><th colspan="3" align="center">💻 Operating System</th></tr>
-<tr><th width="400" align="center">OS</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/os/unknownos?size=20" valign="middle"/>&nbsp;Unknown&nbsp;OS</td>
-<td width="400" align="center">1&nbsp;min</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/99.10"/><img src="https://markdown-progress-vercel.vercel.app/99.10?d" alt="99.10%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/os/windows?size=20" valign="middle"/>&nbsp;Windows</td>
-<td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.90"/><img src="https://markdown-progress-vercel.vercel.app/0.90?d" alt="0.90%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
 
 </table>
 </div>
@@ -267,7 +204,7 @@
 <tr><td width="300" align="center">✨&nbsp;Mostly&nbsp;Hands-On</td><td width="750" align="left">0.00%&nbsp;of&nbsp;written&nbsp;lines&nbsp;came&nbsp;from&nbsp;AI</td></tr>
 <tr><td width="300" align="center">📄&nbsp;Detailed&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;0&nbsp;characters&nbsp;per&nbsp;prompt</td></tr>
 <tr><td width="300" align="center">💬&nbsp;Iterative&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;0&nbsp;prompts&nbsp;per&nbsp;session</td></tr>
-<tr><td width="300" align="center">🖊️&nbsp;Hands-On&nbsp;Reviewer</td><td width="750" align="left">100.00%&nbsp;of&nbsp;changed&nbsp;lines&nbsp;were&nbsp;hand-edited</td></tr>
+<tr><td width="300" align="center">🖊️&nbsp;Hands-On&nbsp;Reviewer</td><td width="750" align="left">0.00%&nbsp;of&nbsp;changed&nbsp;lines&nbsp;were&nbsp;hand-edited</td></tr>
 
 </table>
 </div>
@@ -280,32 +217,32 @@
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/go?size=20" valign="middle"/>&nbsp;Go</td>
-<td width="400" align="center">5&nbsp;repos</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/29.41"/><img src="https://markdown-progress-vercel.vercel.app/29.41?d" alt="29.41%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center">6&nbsp;repos</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/33.33"/><img src="https://markdown-progress-vercel.vercel.app/33.33?d" alt="33.33%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/javascript?size=20" valign="middle"/>&nbsp;JavaScript</td>
 <td width="400" align="center">5&nbsp;repos</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/29.41"/><img src="https://markdown-progress-vercel.vercel.app/29.41?d" alt="29.41%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/27.78"/><img src="https://markdown-progress-vercel.vercel.app/27.78?d" alt="27.78%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/python?size=20" valign="middle"/>&nbsp;Python</td>
 <td width="400" align="center">3&nbsp;repos</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/17.65"/><img src="https://markdown-progress-vercel.vercel.app/17.65?d" alt="17.65%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/16.67"/><img src="https://markdown-progress-vercel.vercel.app/16.67?d" alt="16.67%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/typescript?size=20" valign="middle"/>&nbsp;TypeScript</td>
 <td width="400" align="center">2&nbsp;repos</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/11.76"/><img src="https://markdown-progress-vercel.vercel.app/11.76?d" alt="11.76%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/11.11"/><img src="https://markdown-progress-vercel.vercel.app/11.11?d" alt="11.11%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/shell?size=20" valign="middle"/>&nbsp;Shell</td>
 <td width="400" align="center">2&nbsp;repos</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/11.76"/><img src="https://markdown-progress-vercel.vercel.app/11.76?d" alt="11.76%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/11.11"/><img src="https://markdown-progress-vercel.vercel.app/11.11?d" alt="11.11%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 </table>
@@ -313,7 +250,7 @@
 
 <div align="center">
 
-Last Updated on 26/08/2026 07:27:52 UTC
+Last Updated on 27/08/2026 14:18:56 UTC
 &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
 This README updates automatically via
 <a href="https://github.com/apps/github-actions" target="_blank"><img src="https://icon-mj.vercel.app/icon/social/github?size=20" width="18" valign="middle"/></a>
