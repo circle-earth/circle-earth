@@ -161,10 +161,10 @@
 <table>
 
 <tr><th colspan="2" width="1200" align="center">🐱 My GitHub Data</th></tr>
-<tr><td width="400" align="left">&nbsp;📦&nbsp;Used&nbsp;in&nbsp;GitHub's&nbsp;Storage</td><td width="400" align="center">68.2&nbsp;kB</td></tr>
-<tr><td width="400" align="left">&nbsp;🏆&nbsp;Contributions&nbsp;in&nbsp;the&nbsp;Year</td><td width="400" align="center">600</td></tr>
+<tr><td width="400" align="left">&nbsp;📦&nbsp;Used&nbsp;in&nbsp;GitHub's&nbsp;Storage</td><td width="400" align="center">72.1&nbsp;kB</td></tr>
+<tr><td width="400" align="left">&nbsp;🏆&nbsp;Contributions&nbsp;in&nbsp;the&nbsp;Year</td><td width="400" align="center">608</td></tr>
 <tr><td width="400" align="left">&nbsp;📜&nbsp;Public&nbsp;Repositories</td><td width="400" align="center">5</td></tr>
-<tr><td width="400" align="left">&nbsp;🔑&nbsp;Private&nbsp;Repositories</td><td width="400" align="center">17</td></tr>
+<tr><td width="400" align="left">&nbsp;🔑&nbsp;Private&nbsp;Repositories</td><td width="400" align="center">18</td></tr>
 
 </table>
 </div>
@@ -306,31 +306,31 @@
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/go?size=20" valign="middle"/>&nbsp;Go</td>
 <td width="400" align="center">6&nbsp;repos</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/30.00"/><img src="https://markdown-progress-vercel.vercel.app/30.00?d" alt="30.00%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/javascript?size=20" valign="middle"/>&nbsp;JavaScript</td>
-<td width="400" align="center">5&nbsp;repos</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/25.00"/><img src="https://markdown-progress-vercel.vercel.app/25.00?d" alt="25.00%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/28.57"/><img src="https://markdown-progress-vercel.vercel.app/28.57?d" alt="28.57%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/shell?size=20" valign="middle"/>&nbsp;Shell</td>
 <td width="400" align="center">3&nbsp;repos</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/15.00"/><img src="https://markdown-progress-vercel.vercel.app/15.00?d" alt="15.00%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/14.29"/><img src="https://markdown-progress-vercel.vercel.app/14.29?d" alt="14.29%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/typescript?size=20" valign="middle"/>&nbsp;TypeScript</td>
 <td width="400" align="center">2&nbsp;repos</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/10.00"/><img src="https://markdown-progress-vercel.vercel.app/10.00?d" alt="10.00%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/9.52"/><img src="https://markdown-progress-vercel.vercel.app/9.52?d" alt="9.52%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/java?size=20" valign="middle"/>&nbsp;Java</td>
+<td width="400" align="center">1&nbsp;repo</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/4.76"/><img src="https://markdown-progress-vercel.vercel.app/4.76?d" alt="4.76%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/c?size=20" valign="middle"/>&nbsp;C</td>
 <td width="400" align="center">1&nbsp;repo</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/5.00"/><img src="https://markdown-progress-vercel.vercel.app/5.00?d" alt="5.00%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/4.76"/><img src="https://markdown-progress-vercel.vercel.app/4.76?d" alt="4.76%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 </table>
@@ -338,7 +338,7 @@
 
 <div align="center">
 
-Last Updated on 07/09/2026 09:40:12 UTC
+Last Updated on 08/09/2026 09:45:17 UTC
 &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
 This README updates automatically via
 <a href="https://github.com/apps/github-actions" target="_blank"><img src="https://icon-mj.vercel.app/icon/social/github?size=20" width="18" valign="middle"/></a>
