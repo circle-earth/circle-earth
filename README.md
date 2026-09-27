@@ -186,32 +186,20 @@
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/other?size=20" valign="middle"/>&nbsp;Other</td>
-<td width="400" align="center">1&nbsp;hr&nbsp;38&nbsp;mins</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/99.30"/><img src="https://markdown-progress-vercel.vercel.app/99.30?d" alt="99.30%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/markdown?size=20" valign="middle"/>&nbsp;Markdown</td>
-<td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.29"/><img src="https://markdown-progress-vercel.vercel.app/0.29?d" alt="0.29%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/typescript?size=20" valign="middle"/>&nbsp;TypeScript</td>
-<td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.21"/><img src="https://markdown-progress-vercel.vercel.app/0.21?d" alt="0.21%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center">50&nbsp;mins</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/99.68"/><img src="https://markdown-progress-vercel.vercel.app/99.68?d" alt="99.68%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/shell?size=20" valign="middle"/>&nbsp;Bash</td>
 <td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.10"/><img src="https://markdown-progress-vercel.vercel.app/0.10?d" alt="0.10%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.19"/><img src="https://markdown-progress-vercel.vercel.app/0.19?d" alt="0.19%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/json?size=20" valign="middle"/>&nbsp;JSON</td>
 <td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.07"/><img src="https://markdown-progress-vercel.vercel.app/0.07?d" alt="0.07%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/0.13"/><img src="https://markdown-progress-vercel.vercel.app/0.13?d" alt="0.13%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 </table>
@@ -225,20 +213,20 @@
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/ides/antigravitycli?size=20" valign="middle"/>&nbsp;Antigravity&nbsp;CLI</td>
-<td width="400" align="center">51&nbsp;mins</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/52.21"/><img src="https://markdown-progress-vercel.vercel.app/52.21?d" alt="52.21%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center">44&nbsp;mins</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/86.74"/><img src="https://markdown-progress-vercel.vercel.app/86.74?d" alt="86.74%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/ides/antigravity?size=20" valign="middle"/>&nbsp;Antigravity</td>
-<td width="400" align="center">27&nbsp;mins</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/27.54"/><img src="https://markdown-progress-vercel.vercel.app/27.54?d" alt="27.54%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center">4&nbsp;mins</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/8.33"/><img src="https://markdown-progress-vercel.vercel.app/8.33?d" alt="8.33%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/ides/shell?size=20" valign="middle"/>&nbsp;Bash</td>
-<td width="400" align="center">20&nbsp;mins</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/20.25"/><img src="https://markdown-progress-vercel.vercel.app/20.25?d" alt="20.25%" width="220" height="20" valign="middle"/></picture></td>
+<td width="400" align="center">2&nbsp;mins</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/4.93"/><img src="https://markdown-progress-vercel.vercel.app/4.93?d" alt="4.93%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
 </table>
@@ -252,7 +240,7 @@
 
 <tr>
 <td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/os/linux?size=20" valign="middle"/>&nbsp;Linux</td>
-<td width="400" align="center">1&nbsp;hr&nbsp;39&nbsp;mins</td>
+<td width="400" align="center">50&nbsp;mins</td>
 <td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/100.00"/><img src="https://markdown-progress-vercel.vercel.app/100.00?d" alt="100.00%" width="220" height="20" valign="middle"/></picture></td>
 </tr>
 
@@ -265,11 +253,11 @@
 <tr><th colspan="3" align="center">🤖 AI Coding This Week</th></tr>
 <tr><th width="70" align="center">Icon</th><th width="300" align="center">Metric</th><th width="700" align="center">Details</th></tr>
 
-<tr><td width="70" align="center">⏱️</td><td width="300" align="center">AI&nbsp;Coding&nbsp;Time</td><td width="700" align="left">1&nbsp;hr&nbsp;28&nbsp;mins&nbsp;(89.05%)</td></tr>
+<tr><td width="70" align="center">⏱️</td><td width="300" align="center">AI&nbsp;Coding&nbsp;Time</td><td width="700" align="left">48&nbsp;mins&nbsp;(95.07%)</td></tr>
 <tr><td width="70" align="center">✍️</td><td width="300" align="center">Lines&nbsp;Written</td><td width="700" align="left">0&nbsp;by&nbsp;AI,&nbsp;0&nbsp;by&nbsp;hand&nbsp;(0.00%&nbsp;AI-written)</td></tr>
 <tr><td width="70" align="center">🔤</td><td width="300" align="center">Tokens&nbsp;Used</td><td width="700" align="left">0&nbsp;Input&nbsp;Tokens,&nbsp;0&nbsp;Output&nbsp;Tokens</td></tr>
 <tr><td width="70" align="center">💵</td><td width="300" align="center">Estimated&nbsp;AI&nbsp;Cost</td><td width="700" align="left">$0.00&nbsp;Estimated&nbsp;AI&nbsp;Cost&nbsp;This&nbsp;Week</td></tr>
-<tr><td width="70" align="center">🧠</td><td width="300" align="center">AI&nbsp;Activity</td><td width="700" align="left">6&nbsp;AI&nbsp;Sessions,&nbsp;37&nbsp;AI&nbsp;Prompts</td></tr>
+<tr><td width="70" align="center">🧠</td><td width="300" align="center">AI&nbsp;Activity</td><td width="700" align="left">3&nbsp;AI&nbsp;Sessions,&nbsp;14&nbsp;AI&nbsp;Prompts</td></tr>
 
 </table>
 
@@ -283,8 +271,8 @@
 <tr><th width="300" align="center">Insight</th><th width="750" align="center">Details</th></tr>
 
 <tr><td width="300" align="center">✨&nbsp;Mostly&nbsp;Hands-On</td><td width="750" align="left">0.00%&nbsp;of&nbsp;written&nbsp;lines&nbsp;came&nbsp;from&nbsp;AI</td></tr>
-<tr><td width="300" align="center">📄&nbsp;Detailed&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;74&nbsp;characters&nbsp;per&nbsp;prompt</td></tr>
-<tr><td width="300" align="center">💬&nbsp;Iterative&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;6&nbsp;prompts&nbsp;per&nbsp;session</td></tr>
+<tr><td width="300" align="center">📄&nbsp;Detailed&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;52&nbsp;characters&nbsp;per&nbsp;prompt</td></tr>
+<tr><td width="300" align="center">💬&nbsp;Iterative&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;5&nbsp;prompts&nbsp;per&nbsp;session</td></tr>
 <tr><td width="300" align="center">🖊️&nbsp;Hands-On&nbsp;Reviewer</td><td width="750" align="left">0.00%&nbsp;of&nbsp;changed&nbsp;lines&nbsp;were&nbsp;hand-edited</td></tr>
 
 </table>
@@ -331,7 +319,7 @@
 
 <div align="center">
 
-Last Updated on 26/09/2026 10:12:05 UTC
+Last Updated on 27/09/2026 10:27:07 UTC
 &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
 This README updates automatically via
 <a href="https://github.com/apps/github-actions" target="_blank"><img src="https://icon-mj.vercel.app/icon/social/github?size=20" width="18" valign="middle"/></a>
