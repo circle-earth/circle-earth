@@ -181,57 +181,6 @@
 <div align="center">
 <table>
 
-<tr><th colspan="3" align="center">💬 Programming Languages</th></tr>
-<tr><th width="400" align="center">Language</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/markdown?size=20" valign="middle"/>&nbsp;Markdown</td>
-<td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/96.43"/><img src="https://markdown-progress-vercel.vercel.app/96.43?d" alt="96.43%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/text?size=20" valign="middle"/>&nbsp;Text</td>
-<td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/3.57"/><img src="https://markdown-progress-vercel.vercel.app/3.57?d" alt="3.57%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-</table>
-</div>
-
-<div align="center">
-<table>
-
-<tr><th colspan="3" align="center">👨‍💻 IDE's</th></tr>
-<tr><th width="400" align="center">Editor</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/ides/acode?size=20" valign="middle"/>&nbsp;Acode</td>
-<td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/100.00"/><img src="https://markdown-progress-vercel.vercel.app/100.00?d" alt="100.00%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-</table>
-</div>
-
-<div align="center">
-<table>
-
-<tr><th colspan="3" align="center">💻 Operating System</th></tr>
-<tr><th width="400" align="center">OS</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
-
-<tr>
-<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/os/android?size=20" valign="middle"/>&nbsp;Android</td>
-<td width="400" align="center">0&nbsp;secs</td>
-<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/100.00"/><img src="https://markdown-progress-vercel.vercel.app/100.00?d" alt="100.00%" width="220" height="20" valign="middle"/></picture></td>
-</tr>
-
-</table>
-</div>
-
-<div align="center">
-<table>
-
 <tr><th colspan="3" align="center">🤖 AI Coding This Week</th></tr>
 <tr><th width="70" align="center">Icon</th><th width="300" align="center">Metric</th><th width="700" align="center">Details</th></tr>
 
@@ -301,7 +250,7 @@
 
 <div align="center">
 
-Last Updated on 04/10/2026 11:00:19 UTC
+Last Updated on 05/10/2026 10:47:16 UTC
 &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
 This README updates automatically via
 <a href="https://github.com/apps/github-actions" target="_blank"><img src="https://icon-mj.vercel.app/icon/social/github?size=20" width="18" valign="middle"/></a>
