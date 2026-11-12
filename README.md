@@ -181,11 +181,62 @@
 <div align="center">
 <table>
 
+<tr><th colspan="3" align="center">💬 Programming Languages</th></tr>
+<tr><th width="400" align="center">Language</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
+
+<tr>
+<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/file/python?size=20" valign="middle"/>&nbsp;Python</td>
+<td width="400" align="center">5&nbsp;mins</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/100.00"/><img src="https://markdown-progress-vercel.vercel.app/100.00?d" alt="100.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+</table>
+</div>
+
+<div align="center">
+<table>
+
+<tr><th colspan="3" align="center">👨‍💻 IDE's</th></tr>
+<tr><th width="400" align="center">Editor</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
+
+<tr>
+<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/ides/vscode?size=20" valign="middle"/>&nbsp;VS&nbsp;Code</td>
+<td width="400" align="center">3&nbsp;mins</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/62.20"/><img src="https://markdown-progress-vercel.vercel.app/62.20?d" alt="62.20%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+<tr>
+<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/ides/unknowneditor?size=20" valign="middle"/>&nbsp;Unknown&nbsp;Editor</td>
+<td width="400" align="center">1&nbsp;min</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/37.80"/><img src="https://markdown-progress-vercel.vercel.app/37.80?d" alt="37.80%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+</table>
+</div>
+
+<div align="center">
+<table>
+
+<tr><th colspan="3" align="center">💻 Operating System</th></tr>
+<tr><th width="400" align="center">OS</th><th width="400" align="center">Time Spent</th><th width="400" align="center">Progress</th></tr>
+
+<tr>
+<td width="400" align="center"><img src="https://icon-mj.vercel.app/icon/os/linux?size=20" valign="middle"/>&nbsp;Linux</td>
+<td width="400" align="center">5&nbsp;mins</td>
+<td width="400" align="center"><picture><source media="(max-width: 768px)" srcset="https://markdown-progress-vercel.vercel.app/100.00"/><img src="https://markdown-progress-vercel.vercel.app/100.00?d" alt="100.00%" width="220" height="20" valign="middle"/></picture></td>
+</tr>
+
+</table>
+</div>
+
+<div align="center">
+<table>
+
 <tr><th colspan="3" align="center">🤖 AI Coding This Week</th></tr>
 <tr><th width="70" align="center">Icon</th><th width="300" align="center">Metric</th><th width="700" align="center">Details</th></tr>
 
 <tr><td width="70" align="center">⏱️</td><td width="300" align="center">AI&nbsp;Coding&nbsp;Time</td><td width="700" align="left">0&nbsp;hrs&nbsp;0&nbsp;mins&nbsp;(0%)</td></tr>
-<tr><td width="70" align="center">✍️</td><td width="300" align="center">Lines&nbsp;Written</td><td width="700" align="left">0&nbsp;by&nbsp;AI,&nbsp;0&nbsp;by&nbsp;hand&nbsp;(0.00%&nbsp;AI-written)</td></tr>
+<tr><td width="70" align="center">✍️</td><td width="300" align="center">Lines&nbsp;Written</td><td width="700" align="left">0&nbsp;by&nbsp;AI,&nbsp;23&nbsp;by&nbsp;hand&nbsp;(0.00%&nbsp;AI-written)</td></tr>
 <tr><td width="70" align="center">🔤</td><td width="300" align="center">Tokens&nbsp;Used</td><td width="700" align="left">0&nbsp;Input&nbsp;Tokens,&nbsp;0&nbsp;Output&nbsp;Tokens</td></tr>
 <tr><td width="70" align="center">💵</td><td width="300" align="center">Estimated&nbsp;AI&nbsp;Cost</td><td width="700" align="left">$0.00&nbsp;Estimated&nbsp;AI&nbsp;Cost&nbsp;This&nbsp;Week</td></tr>
 <tr><td width="70" align="center">🧠</td><td width="300" align="center">AI&nbsp;Activity</td><td width="700" align="left">0&nbsp;AI&nbsp;Sessions,&nbsp;0&nbsp;AI&nbsp;Prompts</td></tr>
@@ -204,7 +255,7 @@
 <tr><td width="300" align="center">✨&nbsp;Mostly&nbsp;Hands-On</td><td width="750" align="left">0.00%&nbsp;of&nbsp;written&nbsp;lines&nbsp;came&nbsp;from&nbsp;AI</td></tr>
 <tr><td width="300" align="center">📄&nbsp;Detailed&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;0&nbsp;characters&nbsp;per&nbsp;prompt</td></tr>
 <tr><td width="300" align="center">💬&nbsp;Iterative&nbsp;Prompter</td><td width="750" align="left">Average&nbsp;0&nbsp;prompts&nbsp;per&nbsp;session</td></tr>
-<tr><td width="300" align="center">🖊️&nbsp;Hands-On&nbsp;Reviewer</td><td width="750" align="left">0.00%&nbsp;of&nbsp;changed&nbsp;lines&nbsp;were&nbsp;hand-edited</td></tr>
+<tr><td width="300" align="center">🖊️&nbsp;Hands-On&nbsp;Reviewer</td><td width="750" align="left">100.00%&nbsp;of&nbsp;changed&nbsp;lines&nbsp;were&nbsp;hand-edited</td></tr>
 
 </table>
 </div>
@@ -250,7 +301,7 @@
 
 <div align="center">
 
-Last Updated on 11/11/2026 12:26:37 UTC
+Last Updated on 12/11/2026 12:25:25 UTC
 &nbsp;&nbsp;&#8226;&nbsp;&nbsp;
 This README updates automatically via
 <a href="https://github.com/apps/github-actions" target="_blank"><img src="https://icon-mj.vercel.app/icon/social/github?size=20" width="18" valign="middle"/></a>
